@@ -1,0 +1,2 @@
+This is a personal project to create an application that predicts some market fluctuations.
+This file was created for more information.
